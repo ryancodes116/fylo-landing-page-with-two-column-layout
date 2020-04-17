@@ -425,6 +425,10 @@ footer {
     margin-bottom: 0;
   }
 
+  .bottom-form .email {
+    padding: 0.7rem;
+  }
+
   .bottom-form .bottom-submit {
     margin-top: 0.5rem;
     width: 50%;
